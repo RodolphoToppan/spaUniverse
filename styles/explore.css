@@ -1,0 +1,12 @@
+body {
+  background: url(../assets/backgroundExploração.png) no-repeat;
+  background-size: cover;
+}
+
+#app {
+  margin-top: 6.3rem;
+  margin-left: 10.2rem;
+  display: grid;
+  gap: 1.6rem;
+  justify-content: flex-start;
+}
