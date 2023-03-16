@@ -1,0 +1,12 @@
+body {
+  background: url(../assets/backgroundHome.png) no-repeat;
+  background-size: cover;
+}
+
+#app {
+  margin-top: 17.2rem;
+  display: grid;
+  gap: 2.4rem;
+  justify-content: center;
+  justify-items: center;
+}
