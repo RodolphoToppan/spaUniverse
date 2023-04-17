@@ -4,7 +4,7 @@ Esse projeto é apenas para colocar todos os conceitos vistos em prática. Não 
 
 ## Demonstração
 
-![Alt text](c:/Users/User/Downloads/SPA-Universe-Google-Chrome-2023-03-16-07-02-28.gif)
+<img width="700" src="./assets/gifSPA.gif">
 
 ## Stack utilizada
 
